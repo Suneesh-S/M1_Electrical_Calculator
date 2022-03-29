@@ -16,6 +16,6 @@ jobs:
     - name: Install-Cppcheck
       run: sudo apt-get install cppcheck
     - name: Analyse
-      run: cppcheck --enable=all 3_implementation
+      run: cppcheck --enable=all 3_Implementation
       
     
