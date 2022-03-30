@@ -1,4 +1,4 @@
-name: CodeQuality Dynamic-Code Valgrind
+name: CodeQuality Dynamic-Code valgrind
 on:
   push:
     branches: [ main ]
