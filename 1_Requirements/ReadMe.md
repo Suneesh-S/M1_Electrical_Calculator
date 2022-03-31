@@ -4,15 +4,17 @@
  * This project first takes the user to a index page where the available contents on type of calculator are listed and asks the user to give input for the respective topic he wants to calculate. User can also try run the example code by him/herself. User can also give suggestion to us. 
 
 ## Research
-### E-BOOK ON C PROGRAMMING...
-* This is a simple project which simply provide easy contents on c programming to the user after taking input from the user. 
+### Electrical Calculator...
+* This is a simple project which simply provide required electrical parameters value to the user after taking input from the user. 
 * This project is built using traditional file handling system rather than Data base system. here the user provides his/her desired choice and the code after taking input from the user it runs the respective user defined funtion which prints the contents of the respective topic.
 <img src="https://github.com/debasish2110/LTTS-C-MiniProject/blob/master/1_Requirements/File-functions.jpg" width="920" height="520">
 
 ## Cost and Features
-* This project has various features, like it can provide contents on c programming concepts to the user. 
-* User can also run the given sample codes and try it by themslef. which is a big plus point for this project.
-* users have option also option to give their valuable suggestions in or platform. 
+* This project has various features, like it can provide electrical parameters like volatge,current resistor value,battery life etc.. 
+* In Resistor color code Calculator,it can give values of any band upto 6 bands.
+* In ohms law Calculator,user can enter any two parameters(V,I,R,P) and can get other two parameter values.
+* In LED series resistor Calculator,user can get resistor value to drive the LED by entering parameters.
+* In Batter life Calculator,user can get the battery life in hours by entering the parameter.
 #### above features are shown in the below screenshot. 
 <img src="https://github.com/debasish2110/LTTS-C-MiniProject/blob/master/1_Requirements/index.png" width="1080" height="720">
 
