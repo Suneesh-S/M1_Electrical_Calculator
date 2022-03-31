@@ -6,9 +6,9 @@
 ## Research
 ### Electrical Calculator...
 * This is a simple project which simply provide required electrical parameters value to the user after taking input from the user. 
-* This project is built using traditional file handling system rather than Data base system. here the user provides his/her desired choice and the code after taking input from the user it runs the respective user defined funtion which prints the contents of the respective topic.
+* This calculator is using various formulas for different functions,research are done in the particular calculation and theres need to be perequites before entering to the program
 ![image](https://github.com/Suneesh-S/M1_Electrical_Calculator/blob/f2cda815554c041bf7139979462159bb732afc52/1_Requirements/resistor_code.gif)
-![image]()
+![image](https://github.com/Suneesh-S/M1_Electrical_Calculator/blob/256f5675952ce21aabe37ecf476e453ace6db5f4/1_Requirements/led-series-table.jpg)
 
 ## Cost and Features
 * This project has various features, like it can provide electrical parameters like volatge,current resistor value,battery life etc.. 
