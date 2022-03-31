@@ -25,7 +25,7 @@ for ruunig the code it checks for the available code and run it in the compiler 
 <img src="https://github.com/debasish2110/LTTS-C-MiniProject/blob/master/1_Requirements/system%20definition.png" width="780" height="520">
 
 ## SWOT ANALYSIS
-![image](https://github.com/debasish2110/LTTS-C-MiniProject/blob/master/1_Requirements/SWOT%20analysis.png)
+![image](https://github.com/Suneesh-S/M1_Electrical_Calculator/blob/ce31353fb25e1129f81ab9baa3c5cf5c7dae40e5/1_Requirements/SWOT%20analysis.png)
 
 # 4W&#39;s and 1&#39;H
 
