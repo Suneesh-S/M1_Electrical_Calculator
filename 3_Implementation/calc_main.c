@@ -1,3 +1,13 @@
+/**
+ * @file calc_main.c
+ * @author Suneesh-S (you@domain.com)
+ * @brief This the main file which control the project
+ * @version 0.1
+ * @date 2022-03-30
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include<stdio.h>
 #include<math.h>
 #include "print_function.h"
