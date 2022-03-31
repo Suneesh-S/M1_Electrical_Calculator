@@ -7,7 +7,8 @@
 ### Electrical Calculator...
 * This is a simple project which simply provide required electrical parameters value to the user after taking input from the user. 
 * This project is built using traditional file handling system rather than Data base system. here the user provides his/her desired choice and the code after taking input from the user it runs the respective user defined funtion which prints the contents of the respective topic.
-<img src="https://github.com/debasish2110/LTTS-C-MiniProject/blob/master/1_Requirements/File-functions.jpg" width="920" height="520">
+![image](https://github.com/Suneesh-S/M1_Electrical_Calculator/blob/f2cda815554c041bf7139979462159bb732afc52/1_Requirements/resistor_code.gif)
+![image]()
 
 ## Cost and Features
 * This project has various features, like it can provide electrical parameters like volatge,current resistor value,battery life etc.. 
