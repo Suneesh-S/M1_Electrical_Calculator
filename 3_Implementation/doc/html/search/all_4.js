@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['ohms_5flaw_5fcalc_0',['ohms_law_calc',['../calc__function_8h.html#aad0bf3156d1abbf9a46fe7e1215ba85a',1,'calc_function.c']]],
-  ['ohms_5flaw_5fprint_1',['ohms_law_print',['../print__function_8h.html#a63bd9b399ff5dd7850f2cd710ef142af',1,'print_function.c']]]
+  ['led_5fcalc_0',['LED_calc',['../calc__function_8h.html#ad6a5166a9611c70e81ad156a5e57539d',1,'calc_function.h']]],
+  ['led_5fseries_5fprint_1',['LED_series_print',['../print__function_8h.html#adcf7280302db2757af9f9b77dd3e05bf',1,'print_function.h']]]
 ];

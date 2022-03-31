@@ -1,24 +1,24 @@
 var indexSectionsWithContent =
 {
-  0: "bcdloprtu",
-  1: "u",
-  2: "cpr",
-  3: "bdloprt"
+  0: "bcdeloprt",
+  1: "cpr",
+  2: "bdloprt",
+  3: "e"
 };
 
 var indexSectionNames =
 {
   0: "all",
-  1: "classes",
-  2: "files",
-  3: "functions"
+  1: "files",
+  2: "functions",
+  3: "pages"
 };
 
 var indexSectionLabels =
 {
   0: "All",
-  1: "Data Structures",
-  2: "Files",
-  3: "Functions"
+  1: "Files",
+  2: "Functions",
+  3: "Pages"
 };
 

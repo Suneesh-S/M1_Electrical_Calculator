@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['ppm_5fchar_0',['ppm_char',['../res__switch__case_8h.html#a68ddadd71a9a8bd1904376c616dc6639',1,'res_switch_case.c']]],
-  ['print_5fcodes_1',['print_codes',['../res__switch__case_8h.html#a916cf1f77a832b1fc6ab71874ecb56dd',1,'res_switch_case.c']]],
-  ['print_5ffunction_2eh_2',['print_function.h',['../print__function_8h.html',1,'']]]
+  ['ohms_5flaw_5fcalc_0',['ohms_law_calc',['../calc__function_8h.html#aad0bf3156d1abbf9a46fe7e1215ba85a',1,'calc_function.h']]],
+  ['ohms_5flaw_5fprint_1',['ohms_law_print',['../print__function_8h.html#a63bd9b399ff5dd7850f2cd710ef142af',1,'print_function.h']]]
 ];
