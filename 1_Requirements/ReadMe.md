@@ -20,10 +20,13 @@
 ![image](https://github.com/Suneesh-S/M1_Electrical_Calculator/blob/9f8aba398f1a0cc5bcde30190051daae5f0a3664/1_Requirements/index.png)
 
 ## Defining Our System
-* System bacically takes input from the user and checks for the file, and then it prints the file.
-for ruunig the code it checks for the available code and run it in the compiler i.e GCC and prints the output
-* for the suggestion part it takes suggestion from user and stores it in a file.
-<img src="https://github.com/debasish2110/LTTS-C-MiniProject/blob/master/1_Requirements/system%20definition.png" width="780" height="520">
+* System bacically takes input from the user and executes the particular function the user selected, and then print the values.
+* There are 4 types of functions in this Calculator
+  * Resistor Color Code Calculator
+  * Ohms law Calculator
+  * LED series Resistor Calculator
+  * Battery Life Calculator
+
 
 ## SWOT ANALYSIS
 ![image](https://github.com/Suneesh-S/M1_Electrical_Calculator/blob/ce31353fb25e1129f81ab9baa3c5cf5c7dae40e5/1_Requirements/SWOT%20analysis.png)
