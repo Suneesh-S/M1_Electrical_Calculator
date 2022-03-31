@@ -16,7 +16,7 @@
 * In LED series resistor Calculator,user can get resistor value to drive the LED by entering parameters.
 * In Batter life Calculator,user can get the battery life in hours by entering the parameter.
 #### above features are shown in the below screenshot. 
-![image](https://github.com/Suneesh-S/M1_Electrical_Calculator/blob/ce31353fb25e1129f81ab9baa3c5cf5c7dae40e5/1_Requirements/SWOT%20analysis.png)
+![image](https://github.com/Suneesh-S/M1_Electrical_Calculator/blob/9f8aba398f1a0cc5bcde30190051daae5f0a3664/1_Requirements/index.png)
 
 ## Defining Our System
 * System bacically takes input from the user and checks for the file, and then it prints the file.
@@ -54,12 +54,12 @@ for ruunig the code it checks for the available code and run it in the compiler 
 
 | ID | Description | Status (Implemented/Future)
 |:---:|:---:|:---:|
-|HLR-1| User shall be able to move to cover page and index page. |Implemented|
-|HLR-2| System output must display the contents of the file. |Implemented|
-|HLR-3| user shall be able to execute the sample codes. |Implemented|
-|HLR-4| user shall be able to give suggestion. |Implemented|
-|HLR-5| user shall be able to write their own code and execute. |Future|
-|HLR-6| user shall be able to access a learning leader board. |Future|
+|HLR-1| User shall be able to select the band the user need to get value in resistor code calculator. |Implemented|
+|HLR-2| System ask choice to continue after getting value from one calculator. |Implemented|
+|HLR-3| user shall be able to get any two parameter value after giving any other two value in ohms law calculator. |Implemented|
+|HLR-4| user shall be able to get battery life in hours and in minutes. |Implemented|
+|HLR-5| user shall be able to get the history of the calculation. |Future|
+
 
 
 ##  Low level Requirements:
