@@ -11,7 +11,6 @@
 void resistor_code_print()
 {
      char    code[10];     /* one code per band */
-     double  color[10];  /* decoded values */
      int     N;
      double* ans;
 
@@ -41,7 +40,6 @@ void resistor_code_print()
 }
 
 void ohms_law_print(){
-    float V=0,I=0,R=0,P=0;
     int x=0;
     char param[][50]={"Voltage","Current","Resistance","Power"};
     char unit[][10]={"V","A","Ohms","W"};
