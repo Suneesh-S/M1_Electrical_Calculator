@@ -16,7 +16,7 @@
 * In LED series resistor Calculator,user can get resistor value to drive the LED by entering parameters.
 * In Batter life Calculator,user can get the battery life in hours by entering the parameter.
 #### above features are shown in the below screenshot. 
-<img src="https://github.com/debasish2110/LTTS-C-MiniProject/blob/master/1_Requirements/index.png" width="1080" height="720">
+![image](https://github.com/Suneesh-S/M1_Electrical_Calculator/blob/ce31353fb25e1129f81ab9baa3c5cf5c7dae40e5/1_Requirements/SWOT%20analysis.png)
 
 ## Defining Our System
 * System bacically takes input from the user and checks for the file, and then it prints the file.
