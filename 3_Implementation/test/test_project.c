@@ -11,7 +11,7 @@ void setUp(void)
 void tearDown(void){
 
 }
-
+/** Functions need to be tested */
 void test_ohms_law_calculator(){
    float value[]={4,0,2,0};
    float answer[]={4,2,2,8};
@@ -43,7 +43,7 @@ void test_resistor_calculator(){
 int main(void){
 
     UnityBegin(NULL);
-
+    /** Run command to test run*/
     RUN_TEST(test_resistor_calculator);
     RUN_TEST(test_ohms_law_calculator);
     RUN_TEST(test_LED_series_calculator);

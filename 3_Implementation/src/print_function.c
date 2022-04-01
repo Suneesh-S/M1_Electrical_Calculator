@@ -20,12 +20,13 @@ void resistor_code_print()
      scanf("%d",&N);
      getchar();
      printf( "\n\n\tEnter the colour Bands:" );
-     /* Read three character codes. */
+
+     /* Read required character codes. */
      for(int i=0;i<N;i++){
          code[i]=getchar();
      }
 
-     /* Decode each character code. */
+     /* passing the return value*/
      ans=resistor_code_calc(N,code);
      
      if(ans[3]==0){

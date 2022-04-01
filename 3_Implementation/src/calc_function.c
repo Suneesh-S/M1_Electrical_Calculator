@@ -6,13 +6,14 @@
  * @brief 
  * 
  */
-double result[4]={0};
+double result[4]={0};/* return values would be stored*/
 double* resistor_code_calc(int N,char code[]){
      
-     double color[10];
+     double color[10]; /* one code per band */
      int num=0,multiplier,flag=0;
      double resistance=0;
 
+/* Decode each character code. */
      if(N==6){
          for(int i=0;i<N-2;i++){
      color[i] = decode_char(code[i]);
@@ -26,7 +27,7 @@ double* resistor_code_calc(int N,char code[]){
      color[N-1]=tolerance_char(code[N-1]);
      }
 
-     
+     /* Check whether codes were correct */
      for(int i=0;i<N;i++){
          if(color[i]==-1){
            printf( "\n\n\tBad code -- cannot compute resistance\n" );
@@ -59,10 +60,10 @@ double* resistor_code_calc(int N,char code[]){
 
       return result;
 }
-
+/* Ohms law Calculating function*/
 float* ohms_law_calc(float value[]){
      
-    
+    /* Findout the other two parameter*/
     if(value[1]==0 && value[0]==0){
         value[0]=sqrt(value[2]*value[3]);
         value[1]=sqrt(value[3]/value[2]);
@@ -91,9 +92,10 @@ float* ohms_law_calc(float value[]){
     return value;
 }
 
+/* LED series resistor calculating Function*/
 double* LED_calc(double Vs,double Vf,double If,double* res){
   
-  double R,P;
+  double R,P; /* Resistance and power*/
   
   double *ans1,*ans2;
   ans1=&R;
@@ -107,9 +109,12 @@ double* LED_calc(double Vs,double Vf,double If,double* res){
     return res;
 }
 
+/* Battery Life Calculating Function*/
 float bat_life_calc(float mAh,float mA){
 
    float life;
+   
+   /*Formula for Battery Life*/
    life=mAh/mA;
 
    return life;

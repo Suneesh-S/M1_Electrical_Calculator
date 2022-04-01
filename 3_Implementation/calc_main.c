@@ -25,14 +25,15 @@ int main(){
     printf( "\t\t---------------------\n\n" );
 
     do{
-        
+        /** Comments need to be printed before the user enter*/
         printf( "\t1.Resistor COLOR Code Calculator\n" );
         printf( "\t2.Ohms law Calculator\n" );
         printf( "\t3.LED Series Resistor Calculator\n" );
         printf( "\t4.Battery Life Calculator\n\n" );
         printf( "\tPlease enter the mode number to operate:" );
         scanf("%d",&n);
-
+        
+        /** condition after selection*/
         if(n==1){
             resistor_code_print();
         }else if(n==2){
