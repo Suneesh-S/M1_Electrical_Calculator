@@ -21,9 +21,9 @@ Folder             | Description
 
 ## Contributors List and Summary
 
-PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|---------|----------------|----------------|---------------|-------------|--------------
-265057 | Suneesh S  | User Input, content displaying, suggestion, sample code compilation |  4  |  4  | 4  | 4        
+|  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+|---------|----------------|----------------|---------------|-------------|--------------
+| Suneesh S  | User Input, content displaying, suggestion, sample code compilation |  4  |  4  | 4  | 4        
 
 ## Challenges Faced and How Was It Overcome
 
